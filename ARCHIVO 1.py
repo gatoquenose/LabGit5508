@@ -1,0 +1,2 @@
+def imprimeNombres():
+    print("Hola")
